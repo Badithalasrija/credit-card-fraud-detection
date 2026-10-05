@@ -1,0 +1,6 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+#Git should ignore everything inside the data folder.
